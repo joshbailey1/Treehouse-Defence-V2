@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TreeehouseDefense/1.0.0": {
+        "runtime": {
+          "TreeehouseDefense.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TreeehouseDefense/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

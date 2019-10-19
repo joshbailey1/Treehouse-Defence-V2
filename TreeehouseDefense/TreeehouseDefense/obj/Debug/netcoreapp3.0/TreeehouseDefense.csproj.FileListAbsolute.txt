@@ -1,0 +1,11 @@
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\bin\Debug\netcoreapp3.0\TreeehouseDefense.exe
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\bin\Debug\netcoreapp3.0\TreeehouseDefense.deps.json
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\bin\Debug\netcoreapp3.0\TreeehouseDefense.runtimeconfig.json
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\bin\Debug\netcoreapp3.0\TreeehouseDefense.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\bin\Debug\netcoreapp3.0\TreeehouseDefense.dll
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\bin\Debug\netcoreapp3.0\TreeehouseDefense.pdb
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\obj\Debug\netcoreapp3.0\TreeehouseDefense.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\obj\Debug\netcoreapp3.0\TreeehouseDefense.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\obj\Debug\netcoreapp3.0\TreeehouseDefense.AssemblyInfo.cs
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\obj\Debug\netcoreapp3.0\TreeehouseDefense.dll
+C:\Users\Josh\source\repos\TreeehouseDefense\TreeehouseDefense\obj\Debug\netcoreapp3.0\TreeehouseDefense.pdb
